@@ -1,0 +1,16 @@
+D:\Users\Lays\Desktop\Projeto-super-mercado\supermercado\supermercado\bin\Debug\net5.0\supermercado.exe
+D:\Users\Lays\Desktop\Projeto-super-mercado\supermercado\supermercado\bin\Debug\net5.0\supermercado.deps.json
+D:\Users\Lays\Desktop\Projeto-super-mercado\supermercado\supermercado\bin\Debug\net5.0\supermercado.runtimeconfig.json
+D:\Users\Lays\Desktop\Projeto-super-mercado\supermercado\supermercado\bin\Debug\net5.0\supermercado.runtimeconfig.dev.json
+D:\Users\Lays\Desktop\Projeto-super-mercado\supermercado\supermercado\bin\Debug\net5.0\supermercado.dll
+D:\Users\Lays\Desktop\Projeto-super-mercado\supermercado\supermercado\bin\Debug\net5.0\ref\supermercado.dll
+D:\Users\Lays\Desktop\Projeto-super-mercado\supermercado\supermercado\bin\Debug\net5.0\supermercado.pdb
+D:\Users\Lays\Desktop\Projeto-super-mercado\supermercado\supermercado\obj\Debug\net5.0\supermercado.csproj.AssemblyReference.cache
+D:\Users\Lays\Desktop\Projeto-super-mercado\supermercado\supermercado\obj\Debug\net5.0\supermercado.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Lays\Desktop\Projeto-super-mercado\supermercado\supermercado\obj\Debug\net5.0\supermercado.AssemblyInfoInputs.cache
+D:\Users\Lays\Desktop\Projeto-super-mercado\supermercado\supermercado\obj\Debug\net5.0\supermercado.AssemblyInfo.cs
+D:\Users\Lays\Desktop\Projeto-super-mercado\supermercado\supermercado\obj\Debug\net5.0\supermercado.csproj.CoreCompileInputs.cache
+D:\Users\Lays\Desktop\Projeto-super-mercado\supermercado\supermercado\obj\Debug\net5.0\supermercado.dll
+D:\Users\Lays\Desktop\Projeto-super-mercado\supermercado\supermercado\obj\Debug\net5.0\ref\supermercado.dll
+D:\Users\Lays\Desktop\Projeto-super-mercado\supermercado\supermercado\obj\Debug\net5.0\supermercado.pdb
+D:\Users\Lays\Desktop\Projeto-super-mercado\supermercado\supermercado\obj\Debug\net5.0\supermercado.genruntimeconfig.cache
