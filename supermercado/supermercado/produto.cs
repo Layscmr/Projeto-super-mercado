@@ -9,7 +9,7 @@ class Produto
 
 
 
-    public string Nome
+    public string Nome // property
     {
         get
         {
@@ -47,5 +47,13 @@ class Produto
             this.Quantity = value;
         }
     }
+
+    public Produto(string nome, double preco, int quantidade)
+    {
+        this.Nome = nome;
+        this.Preco = preco;
+        this.Quantidade = quantidade;
+    }
+    
 
 }

@@ -1,11 +1,12 @@
 ﻿using System;
+using System.Collections.Generic;
 
 class Mercado
 {
 
     private string _Nome;
     private Atendente _Atendente;
-    private Produto[] _Produto;
+    private List<Produto> _Produto = new();
 
 
     public string Nome
@@ -34,17 +35,19 @@ class Mercado
     }
 
 
-    public Produto[] produto
-    {
-        get
-        {
-            return this._Produto;
-        }
+   public List<Produto> getProduto() {
+        return this._Produto;
+   }
 
-        set
-        {
-          // this._Produto[this._Produto.Length]= value;
-        }
+    public void setProduto(Produto novoProduto)
+    {
+        this._Produto.Add(novoProduto);
+    }
+
+    public void cadastrarProduto (string nome , double preco, int quantidade)// metodo
+    {
+        Produto novoProduto = new Produto(nome, preco, quantidade);
+        setProduto(novoProduto);
     }
 
 }
