@@ -7,6 +7,7 @@ class Mercado
     private string _Nome;
     private Atendente _Atendente;
     private List<Produto> _Produto = new();
+    private double _ValorCaixa;
 
 
     public string Nome
@@ -31,6 +32,15 @@ class Mercado
         set
         {
             this._Atendente = value;
+        }
+    }
+    public double ValorCaixa {
+        get {
+            return this._ValorCaixa;
+        }
+        set
+        {
+            this._ValorCaixa += value;
         }
     }
 
