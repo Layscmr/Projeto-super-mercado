@@ -12,7 +12,7 @@ class Program {
         do {
             Console.WriteLine("Escolha uma das opções do super mercado " + superMercado.Nome);
 
-            Console.WriteLine("0- Sair \n 1-Cadastrar produto \n 2-Expediente atendente \n 3-Compra");
+            Console.WriteLine("0- Sair \n 1-Cadastrar produto \n 2-Expediente atendente \n 3-Compra\n 4-Listar produtos\n 5-valor que o caixa possui");
 
             Escolha = int.Parse(Console.ReadLine());
 
@@ -63,7 +63,18 @@ class Program {
                         }
                     }
                     break;
-
+                case 4:
+                    foreach (Produto w in superMercado.getProduto()) {
+                        Console.WriteLine("================================================");
+                        Console.WriteLine(w.Nome);
+                        Console.WriteLine(w.Preco);
+                        Console.WriteLine(w.Quantidade);
+                        Console.WriteLine("================================================");
+                    }
+                    break;
+                case 5:
+                    Console.WriteLine("O valor de dinheiro no caixa eh: " + superMercado.ValorCaixa );
+                    break;
             }
 
         } while (Escolha != 0);
